@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988628121114",
+    "project_id": "yuk-chat-7ad70",
+    "storage_bucket": "yuk-chat-7ad70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988628121114:android:f51b2e53d6c1726d6143a3",
+        "android_client_info": {
+          "package_name": "com.example.yuk_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpwd6-XRn91V3sTw_qrGttr5wv9sA0lAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
